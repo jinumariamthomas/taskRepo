@@ -1,0 +1,5 @@
+
+
+.strikethrough:checked + span{
+    text-decoration:line-through
+  }
